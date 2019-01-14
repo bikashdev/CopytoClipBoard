@@ -1,10 +1,10 @@
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\bin\Debug\CopyToClipboard.exe.config
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\bin\Debug\CopyToClipboard.exe
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\bin\Debug\CopyToClipboard.pdb
-C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.csprojAssemblyReference.cache
+C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.Form1.resources
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.Properties.Resources.resources
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.csproj.GenerateResource.cache
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.csproj.CoreCompileInputs.cache
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.exe
 C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.pdb
-C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.Form1.resources
+C:\Users\Bikash1\source\repos\CopyToClipboard\CopyToClipboard\obj\Debug\CopyToClipboard.csprojAssemblyReference.cache
